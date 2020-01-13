@@ -1,0 +1,59 @@
+---
+title: "E.Major數位人文學習計畫"
+subtitle: "網頁服務的UI-UX"
+author: "林茂廷（指導老師）\n 李靜怡（組長）\n 邱詩涵"
+date: "1/13/2020"
+output:
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = F, warning = F)
+```
+
+```{r}
+library(showtext)
+font_add("QYuan","cwTeXQYuan-Medium.ttf") # 新增字體
+showtext_auto(enable=TRUE) #啟用字體
+
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+library(readr)
+```
+
+## 目錄
+
+## 摘要
+
+## 計畫緣起
+
+## 執行內容
+
+## 執行期程（甘特圖）
+
+```{r, eval=F,echo=FALSE}
+library(DiagrammeR)
+mermaid('
+gantt
+       dateFormat  YYYY-MM-DD
+       title 執行進度規劃
+
+       section 自主學習
+       html, css, javascript: 2020-02-17,2020-02-28
+       bootstrap framework: 2020-02-29,2020-03-06
+       matrialize framework: 2020-03-07,2020-03-13
+       
+       section 期末專題
+       社會、校園服務web介面設計: 2020-03-14,2020-04-30
+        ')
+```
+
+## 經費規劃
+
+## 預期效益
+
+
+
+
+
