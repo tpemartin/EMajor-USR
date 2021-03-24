@@ -1,0 +1,28 @@
+# SOP of A Project
+
+## Initiate a hackmd
+
+  * <https://hackmd.io>  
+    * Wiki of the project
+    * Easy access for everyone
+    
+  * example: <https://hackmd.io/@tpemartin/HyZrubd4u>
+  
+## Initiate a Github **Project**
+
+  * Only EMajor-USR collaborators do this.
+  * <https://github.com/tpemartin/EMajor-USR/projects>  
+    * Detail must put down hackmd link
+    
+  * Add **project dashboard** to project hackmd
+  
+  * example: **海報SVG with QR**: <https://github.com/tpemartin/EMajor-USR/projects/3>
+  
+## Initiate an R project inside Github Repo
+
+  * Start a new R project within EMajor-USR repo (Don't forget to commit & push)
+  * Put project link in project hackmd.
+
+  * example: <https://hackmd.io/@tpemartin/HyZrubd4u>
+  
+## 
